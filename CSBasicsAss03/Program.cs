@@ -24,6 +24,26 @@
 
         #endregion
 
+        #region 2 - Write a program that allows the user to insert an integer then print negative if it is negative number otherwise print positive.
+
+
+        //int num;
+        //Console.WriteLine("enter the number ");
+        //bool check = int.TryParse(Console.ReadLine(), out num);
+        //string message;
+
+
+        //if (check)
+        //{
+        //  message=num >=0 ? "Positive": "Negative";
+        //    Console.WriteLine(message);
+
+        //}
+        //else
+        //{
+        //    Console.WriteLine("You entered invalid input , you  must enter number");
+        //}
+        #endregion
 
 
 
