@@ -142,6 +142,27 @@
 
         #endregion
 
+        #region 6 - Write a program that allows the user to insert an integer then print all numbers between 1 to that number.
+
+        //int num;
+        //Console.WriteLine("enter the number ");
+        //bool check = int.TryParse(Console.ReadLine(), out num);
+
+        //if (check)
+        //{
+        //    for (int i = 1; i <= num; i++)
+        //        Console.Write($"{i} ");
+        //    if (num <= 0)
+        //    {
+        //        for (int i = 1; i >= num; i--)
+        //            Console.Write($"{i} ");
+        //    }
+        //}
+        //else
+        //{
+        //    Console.WriteLine("You entered invalid input , you  must enter number");
+        //}
+        #endregion
 
     }
 }
