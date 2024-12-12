@@ -213,6 +213,32 @@
         #endregion
 
 
+        #region 9- Write a program that takes two integers then prints the power.
+
+
+        //int num, p;
+        //Console.WriteLine("enter Two numbers ");
+        //bool check = int.TryParse(Console.ReadLine(), out num);
+        // check = int.TryParse(Console.ReadLine(), out p);
+        //long result=1;
+
+        //if (check)
+        //{
+        //    for (int i = 1; i <= p; i++)
+        //    {
+        //        result *= num;
+        //    }
+        //    Console.WriteLine(result);
+        // another way
+        //    // Console.WriteLine(Math.Pow(num,p));
+        //}
+        //else
+        //{
+        //    Console.WriteLine("You entered invalid input , you  must enter number");
+        //}
+
+
+        #endregion
 
 
 
