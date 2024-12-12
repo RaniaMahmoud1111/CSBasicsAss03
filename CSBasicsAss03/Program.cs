@@ -271,6 +271,60 @@
 
         #endregion
 
+        #region 11- Write a program to input the month number and print the number of days in that month.
+
+
+        //int num,days=0;
+        //Console.WriteLine("enter  Month number: ");
+        //bool check = int.TryParse(Console.ReadLine(), out num);
+
+        //if (check)
+        //{
+
+        //    switch (num)
+        //    {
+        //        case 1:
+        //        case 3:
+        //        case 5:
+        //        case 7:
+        //        case 8:
+        //        case 10:
+        //        case 12:
+        //            days = 31;
+        //            break;
+        //        case 4:
+        //        case 6:
+        //        case 9:
+        //        case 11:
+        //            days = 30;
+        //            break;
+        //        case 2:
+        //            Console.Write("Enter the year: ");
+        //            int year = int.Parse(Console.ReadLine());
+        //            // Check for leap year
+        //            if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
+        //            {
+        //                days = 29;
+        //            }
+        //            else
+        //            {
+        //                days = 28;
+        //            }
+        //            break;
+        //        default:
+        //            Console.WriteLine("Invalid month number .");
+        //            break;
+        //    }
+
+        //    Console.WriteLine($"Days in this month = {days}");
+        //    }
+        //else
+        //{
+        //    Console.WriteLine("You entered invalid input , you  must enter number");
+        //}
+
+
+        #endregion
 
     }
 }
