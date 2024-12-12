@@ -45,6 +45,50 @@
         //}
         #endregion
 
+        #region 3- Write a program that takes 3 integers from the user then prints the max element and the min element.
+
+        //int num1, num2, num3 , maxElement,minElement;
+        //Console.WriteLine(" enter 3 numbers");
+
+        //bool check = int.TryParse(Console.ReadLine(),out num1);
+        // check = int.TryParse(Console.ReadLine(), out num2);
+        // check = int.TryParse(Console.ReadLine(), out num3);
+        //if (check)
+        //{
+        //    //max
+        //    maxElement = num1;
+        //    if (num2 >= maxElement && num2 >= num3)
+        //    {
+        //        maxElement = num2;
+        //    }
+        //    else if (num3 >= maxElement && num3>= num2)
+
+        //    {
+        //        maxElement = num3;
+        //    }
+
+        //    //min
+        //    minElement = num1;
+        //    if (num2 <= minElement && num2 <= num3)
+        //    {
+        //        minElement = num2;
+        //    }
+        //    else if (num3<= minElement && num3 <= num2)
+
+        //    {
+        //        minElement = num3;
+        //    }
+
+
+        //    Console.WriteLine($"Max Number= {maxElement}. \nMin Number= {minElement}.");
+
+        //}
+        //else
+        //{
+        //    Console.WriteLine("You entered invalid input , you  must enter number");
+        //}
+
+        #endregion
 
 
 
