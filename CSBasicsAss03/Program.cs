@@ -326,5 +326,79 @@
 
         #endregion
 
+        #region 12- Write a program to create a Simple Calculator.
+
+
+        //int num1, num2;
+        //char opr;
+        //Console.WriteLine("enter operand 1 :  ");
+        //bool check = int.TryParse(Console.ReadLine(), out num1);
+        //Console.WriteLine("enter operand 2:  ");
+        //check = int.TryParse(Console.ReadLine(), out num2);
+
+        //Console.WriteLine("enter  the operation(+,-,/,*,%):  ");
+        //check = char.TryParse(Console.ReadLine(), out opr);
+
+        //double res = 0.0;
+
+        //if (check)
+        //{
+        //    switch (opr)
+        //    {
+        //        case '+':
+        //            res = num1 + num2;
+        //            Console.WriteLine($"Result: {res}");
+
+        //            break;
+
+        //        case '-':
+        //            res = num1 - num2;
+        //            Console.WriteLine($"Result: {res}");
+
+        //            break;
+
+        //        case '*':
+        //            res = num1 * num2;
+        //            Console.WriteLine($"Result: {res}");
+
+        //            break;
+
+        //        case '/':
+        //            if (num2 == 0)
+        //            {
+        //                Console.WriteLine("You cannot divide by zero !");
+        //            }
+        //            else
+        //                res = num1 / num2;
+
+        //            Console.WriteLine($"Result: {res}");
+
+        //            break;
+
+        //        case '%':
+        //            res = num1 % num2;
+
+        //            Console.WriteLine($"Result: {res}");
+
+        //            break;
+
+
+        //        default:
+        //            Console.WriteLine(" invalid operation");
+        //            break;
+        //    }
+
+        //}
+        //else
+        //{
+        //    Console.WriteLine("You entered invalid input , you  must enter number");
+        //}
+
+
+
+        #endregion
+
+
+
     }
 }
