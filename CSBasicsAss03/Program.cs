@@ -112,5 +112,36 @@
         #endregion
 
 
+        #region 5- Write a program that takes character from the user then if it is a vowel chars (a,e,I,o,u) then print (vowel) otherwise print (consonant).
+
+        //Console.WriteLine("enter character");
+        //char letter;
+        //bool check = char.TryParse(Console.ReadLine(), out letter);
+
+        //if(check)
+        //{
+        //    int n = 'a' - letter;
+        //    if(n>0) // means capitals
+        //    {
+        //        letter = (char)('a' + (letter - 'A'));
+        //    }
+
+
+        //    if(letter=='a'|| letter == 'e' || letter == 'i' || letter == 'o' || letter == 'u' )
+        //    {
+        //        Console.WriteLine("vowel");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("consonant");
+        //    }
+
+        //}
+        //else
+        //{ Console.WriteLine("You must enter a character "); }
+
+        #endregion
+
+
     }
 }
