@@ -187,5 +187,34 @@
 
         #endregion
 
+        #region 8- Write a program that allows to user to insert number then print all even numbers between 1 to this number
+
+        //int num;
+        //Console.WriteLine("enter the number ");
+        //bool check = int.TryParse(Console.ReadLine(), out num);
+
+        //if (check)
+        //{
+        //    for (int i = 1; i <= num; i++)
+        //    {
+        //        if(i%2==0)
+        //        Console.Write($"{i} ");
+
+        //    }
+        //}
+        //else
+        //{
+        //    Console.WriteLine("You entered invalid input , you  must enter number");
+        //}
+
+
+
+
+        #endregion
+
+
+
+
+
     }
 }
